@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 108 108"
+   version="1.1"
+   sodipodi:docname="surplus_logo_logomark_small.svg"
+   width="108"
+   height="108"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview25"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="2.6626054"
+     inkscape:cx="139.71278"
+     inkscape:cy="139.52499"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="1080"
+     inkscape:window-y="876"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs14">
+    <style
+       id="style2">
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-3 {
+        fill: #ac1be0;
+      }
+    </style>
+    <linearGradient
+       id="linear-gradient"
+       x1="38.98"
+       y1="103.73"
+       x2="217.69"
+       y2="103.73"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#1b4ade"
+         id="stop4" />
+      <stop
+         offset=".28"
+         stop-color="#5039de"
+         id="stop6" />
+      <stop
+         offset=".72"
+         stop-color="#8826de"
+         id="stop8" />
+      <stop
+         offset="1"
+         stop-color="#aa1bde"
+         id="stop10" />
+    </linearGradient>
+    <linearGradient
+       id="linear-gradient-2"
+       x1="38.049999"
+       y1="176.42"
+       x2="217.69"
+       y2="176.42"
+       xlink:href="#linear-gradient"
+       gradientTransform="matrix(0.40609137,0,0,0.40609137,-0.31612233,-1.7464477)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linear-gradient"
+       id="linearGradient131"
+       gradientUnits="userSpaceOnUse"
+       x1="38.98"
+       y1="103.73"
+       x2="217.69"
+       y2="103.73" />
+  </defs>
+  <g
+     id="g191"
+     transform="matrix(0.53703703,0,0,0.53703703,23.743214,24.510533)">
+    <g
+       id="g20"
+       transform="matrix(0.40609137,0,0,0.40609137,-0.31612233,-1.7464477)">
+      <path
+         class="cls-1"
+         d="m 134.29,200.93 c -2.97,0 -5.93,-1.13 -8.19,-3.39 L 51.66,123.1 c -16.9,-16.9 -16.9,-44.41 0,-61.31 L 94.23,19.22 c 16.9,-16.9 44.41,-16.9 61.31,0 l 58.75,63.33 c 4.53,4.52 4.53,11.86 0,16.39 -4.52,4.52 -11.86,4.52 -16.39,0 L 139.15,35.61 c -3.81,-3.81 -8.88,-5.91 -14.27,-5.91 -5.39,0 -10.46,2.1 -14.27,5.91 L 68.04,78.18 c -3.81,3.81 -5.91,8.88 -5.91,14.27 0,5.39 2.1,10.46 5.91,14.27 l 74.43,74.43 c 4.53,4.52 4.53,11.86 0,16.39 -2.26,2.26 -5.23,3.39 -8.19,3.39 z"
+         id="path16"
+         style="fill:url(#linearGradient131)" />
+      <circle
+         class="cls-3"
+         cx="229.34"
+         cy="114.16"
+         r="11.65"
+         id="circle18" />
+    </g>
+    <path
+       class="cls-2"
+       d="m 49.381339,30.874871 c 1.206092,0 2.408122,0.458883 3.325888,1.376651 l 30.225382,30.22538 c 6.86294,6.862943 6.86294,18.034514 0,24.897457 L 66.54276,103.76421 c -6.862944,6.86295 -18.034517,6.86295 -24.89746,0 L 16.512305,78.748979 c -1.839595,-1.835527 -1.839595,-4.816241 0,-6.655831 1.835532,-1.835536 4.816244,-1.835536 6.655837,0 L 48.301136,97.10837 c 1.547209,1.54721 3.606091,2.4 5.794925,2.4 2.188831,0 4.247714,-0.85279 5.794923,-2.4 L 76.280833,80.718528 c 1.547206,-1.547212 2.399996,-3.606091 2.399996,-5.794928 0,-2.188828 -0.85279,-4.247714 -2.399996,-5.794922 L 46.055451,38.903298 c -1.839594,-1.835533 -1.839594,-4.816244 0,-6.655838 0.917766,-0.917766 2.123858,-1.376649 3.325888,-1.376649 z"
+       id="path22"
+       style="fill:url(#linear-gradient-2)" />
+  </g>
+</svg>
