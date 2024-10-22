@@ -1,0 +1,14 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.ggkas.surplus.android",
+      "sha256_cert_fingerprints": [
+        "56:0A:4E:7F:28:A0:FB:15:24:2F:55:8F:55:FB:84:67:9E:B2:4B:61:E1:38:D3:24:3C:EB:D9:B7:12:6F:6E:C9",
+        "D1:CB:7D:DA:A7:96:6D:C8:15:A1:60:A1:33:D7:DE:8B:1D:F5:C2:83:2E:5F:6C:73:F7:7B:F6:B3:4E:A9:5F:2D",
+        "72:1A:09:16:80:35:59:68:47:0B:49:59:17:1E:6A:69:1F:F6:AD:1C:81:00:9E:21:7A:47:97:4B:68:BB:44:7A"
+      ]
+    }
+  }
+]
